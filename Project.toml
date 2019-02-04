@@ -1,0 +1,4 @@
+name = "DICBase"
+uuid = "158ccbae-2819-11e9-3808-17a0156df4b9"
+authors = ["Brent Halonen <bhalonen@gmail.com>"]
+version = "0.1.0"
